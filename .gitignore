@@ -1,0 +1,6 @@
+.stack-work/
+ed25519-crash-repro.cabal
+*~
+dist
+*.key
+tags
